@@ -1,0 +1,12 @@
+src/MyWpf.Infrastructure/obj/
+src/MyWpf.Infrastructure/bin/
+src/MyWpf/bin/
+src/Gui/ExperimentPerson/obj/
+src/MyWpf/obj/
+src/Gui/ExperimentPerson/bin/
+src/packages/
+src/Gui/ExperimentBModule/obj/
+src/Gui/ExperimentAModule/bin/
+src/Gui/ExperimentAModule/obj/
+src/Buisness/ExperimentBusinessModels/obj/
+src/Gui/ExperimentBModule/bin/
